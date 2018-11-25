@@ -1,7 +1,3 @@
-.vscode/c_cpp_properties.json
-.vscode/launch.json
-.vscode/tasks.json
-courseDataStructureandAlgorithm/experiment1/experiment1.sln
 *.exe
 *.cbp
 *.vcxproj
@@ -24,3 +20,4 @@ obj/
 .denpend
 .layout
 test/
+.gitignore
