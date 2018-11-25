@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1540212106 source:f:\code\c\softwaredevelopmentexperiment\phonebook\phonebook\phonebook\main.cpp
+	<iostream>
+	"PhoneBook.h"
+
+1540212400 f:\code\c\softwaredevelopmentexperiment\phonebook\phonebook\phonebook\phonebook.h
+	<stdlib.h>
+	<string>
+	<cstdio>
+
+1543020831 source:f:\code\c\softwaredevelopmentexperiment\phonebook\phonebookcodeblock\phonebook\main.cpp
+	<iostream>
+	"PhoneBook.h"
+
+1521930760 source:f:\code\c\softwaredevelopmentexperiment\phonebook\phonebookcodeblock\phonebook\map.cpp
+	"map.h"
+	<windows.h>
+
+1521930760 f:\code\c\softwaredevelopmentexperiment\phonebook\phonebookcodeblock\phonebook\map.h
+	<vector>
+	"point.h"
+
+1521930760 f:\code\c\softwaredevelopmentexperiment\phonebook\phonebookcodeblock\phonebook\point.h
+
+1543020632 source:f:\code\c\softwaredevelopmentexperiment\phonebook\phonebookcodeblock\phonebook\phonebook.cpp
+	"PhoneBook.h"
+	"tools.h"
+	<conio.h>
+	<Windows.h>
+	<iostream>
+	<string>
+	<cstring>
+	<fstream>
+	<sstream>
+
+1541492704 f:\code\c\softwaredevelopmentexperiment\phonebook\phonebookcodeblock\phonebook\phonebook.h
+	<stdlib.h>
+	<string>
+	<cstdio>
+	<fstream>
+	"IO_Table.H"
+
+1521930760 f:\code\c\softwaredevelopmentexperiment\phonebook\phonebookcodeblock\phonebook\tools.h
+
+1521930760 source:f:\code\c\softwaredevelopmentexperiment\phonebook\phonebookcodeblock\phonebook\point.cpp
+	"point.h"
+	"tools.h"
+	<iostream>
+
+1521930760 source:f:\code\c\softwaredevelopmentexperiment\phonebook\phonebookcodeblock\phonebook\startinterface.cpp
+	"startinterface.h"
+	<windows.h>
+
+1521930760 f:\code\c\softwaredevelopmentexperiment\phonebook\phonebookcodeblock\phonebook\startinterface.h
+	<deque>
+	<vector>
+	"point.h"
+
+1540213937 source:f:\code\c\softwaredevelopmentexperiment\phonebook\phonebookcodeblock\phonebook\tools.cpp
+	<conio.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1540300633 source:f:\code\c\softwaredevelopmentexperiment\phonebook\phonebookcodeblock\phonebook\src\hashlist.cpp
+	"HashList.h"
+
+1540300633 f:\code\c\softwaredevelopmentexperiment\phonebook\phonebookcodeblock\phonebook\include\hashlist.h
+
+1540891113 f:\code\c\softwaredevelopmentexperiment\phonebook\phonebookcodeblock\phonebook\hashtable.h
+	"PhoneBook.h"
+
+1540892126 source:f:\code\c\softwaredevelopmentexperiment\phonebook\phonebookcodeblock\phonebook\hashtable.cpp
+	"PhoneBook.h"
+	<iostream>
+	<string>
+
+1541492639 source:f:\code\c\softwaredevelopmentexperiment\phonebook\phonebookcodeblock\phonebook\io_table.cpp
+	"IO_Table.h"
+	<windows.h>
+	<string>
+	<iostream>
+	<iomanip>
+
+1541492639 f:\code\c\softwaredevelopmentexperiment\phonebook\phonebookcodeblock\phonebook\io_table.h
+	<cstdio>
+	<windows.h>
+	<string>
+	<iostream>
+	<iomanip>
+

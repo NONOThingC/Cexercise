@@ -1,5 +1,0 @@
-CASE# 1:
-5 found at 4
-CASE# 2:
-2 found at 3
-3 found at 4

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1541505648 source:f:\code\c\softwaredevelopmentexperiment\maze\maze\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<stack>
+	<vector>
+	<Windows.h>
+	<queue>
+
