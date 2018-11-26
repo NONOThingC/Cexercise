@@ -2,7 +2,7 @@
 #include <string>
 #include <cstdio>
 #include <fstream>
-#include "IO_Table.H"
+
 const int HASH_MAXSIZE=50;
 using namespace std;
 class PhoneNumber
