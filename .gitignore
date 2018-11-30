@@ -21,3 +21,9 @@ obj/
 .layout
 test/
 .gitignore
+courseDataStructureandAlgorithm/
+coursereassemble/
+softwareDevelopmentExperiment/
+miyao.b
+*.layout
+*.depend

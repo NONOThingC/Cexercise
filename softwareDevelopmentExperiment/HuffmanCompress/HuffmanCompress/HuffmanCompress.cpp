@@ -297,7 +297,7 @@ void HuffmanDecoding(const char *FILE_RD, const char *FILE_WR)
 
 			if (displayLoading == 1 && 0 != num_read)
 			{
-				
+				system("cls");
 				long long curpoision = _ftelli64(stream_rd); //得到当前加载位置
 				double percent = (double)curpoision / (double)fileSize * 100;
 				cout << "Decoding perccent: " << percent << "% " << endl;
@@ -409,9 +409,9 @@ int main()
 	unsigned char code[8];
 	b2char(a, code, 0);
 	*/
-	const char *FILE_RD = "1.pdf"; //原文件
-	const char *FILE_WR = "2.pdf"; //待写入的文件
-	const char *FILE_RE = "3.pdf"; //解码出的文件
+	const char *FILE_RD = "1.exe"; //原文件
+	const char *FILE_WR = "2.exe"; //待写入的文件
+	const char *FILE_RE = "3.exe"; //解码出的文件
 	for (int i = 0; i < chFreqSize; i++)
 		chFreq[i] = 0;
 	//读取和统计二进制文件频率

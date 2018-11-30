@@ -554,7 +554,7 @@ bool PhoneBook::searchHashList(int functioncode, const int key,string name,strin
             #endif // DEBUG
 			if (tempname->name == name)
 			{
-				SetCursorPosition(12, 5);
+				SetCursorPosition(15, 10);
 				cout << tempname->name << "_" << tempname->address << "_" << tempname->number << endl;
 				findflag = 1;
 			}

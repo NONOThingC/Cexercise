@@ -8,8 +8,7 @@ const long long MAX_INT = 12345678908642;
 
 long long BestValue( int * row, int * col,const int n)
 {
-	const long long a = 2 << 63;
-	printf("%ld", a);
+
 	long long f[MAX_SIZE][MAX_SIZE];
 	long long s[MAX_SIZE][MAX_SIZE];
 	long long tempf;

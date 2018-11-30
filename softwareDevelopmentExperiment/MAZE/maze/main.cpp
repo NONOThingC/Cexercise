@@ -192,6 +192,7 @@ int main()
 	point = nullptr;
 	printMaze();
 	system("pause");
+
 	//解法
 
 	int targetx = HEIGHT + 1;
