@@ -6,12 +6,13 @@ int main(int argc, char const *argv[])
 {
     //Directed graph
     struct edge{
-        int to,cost;
+        int from,to,cost;
     };
     vector<edge> G[MAX_V];
     int V,E;
     for(int i=0;i<E;i++)
     {
+        edge 
         G[i].push_back(/*cost*/);
     
     }

@@ -1,4 +1,5 @@
 #include <cstdio>
+
 using namespace std;
 #define MAX_RANGE 150001
 int par[MAX_RANGE], rankArray[MAX_RANGE];
@@ -41,6 +42,7 @@ void unite(int x, int y)
 }
 int main()
 {
+
     int N, K;
     int T, X, Y;
     if (scanf("%d %d", &N, &K) == 2)
