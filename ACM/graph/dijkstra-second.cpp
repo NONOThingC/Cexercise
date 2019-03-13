@@ -77,8 +77,8 @@ int main(int argc, char const *argv[])
 #endif
 
     cin >> N >> R;
-    fill(dist, dist + N+1, Inf);
-    fill(dist2, dist2 + N+1, Inf);//Attention！1--N,not 0--N-1.
+    fill(dist, dist + MAX_V, Inf);
+    fill(dist2, dist2 + MAX_V, Inf);//Attention！1--N,not 0--N-1.
     while (R--)
     {
         int from, to, cost;
