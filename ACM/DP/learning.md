@@ -1,6 +1,6 @@
 # DP问题优化的思考
 DP问题并不难看出或找出一种简单的搜索方法，但是难点通常在如何优化或者找出一种巧妙的不重复计算的方法。这里我会找一些资料或者记下自己的思考。
-资料https://hrbust-acm-team.gitbooks.io/acm-book/content/dynamic_programming/opt.html整理
+资料https://hrbust-acm-team.gitbooks.io/acm-book/content/dynamic_programming/opt.html
 # 时间复杂度优化
 动态规划问题总的来说还是对枚举的优化，即保存中间状态来减少计算次数的方法。那么就可以大概的认为，一个动态规划问题的时间复杂度应该是：时间复杂度 = 状态总数 * 状态转移总数 * 状态转移时间。我们只要减少任意一个部分，都可以达到加速动态规划的方式。
 
